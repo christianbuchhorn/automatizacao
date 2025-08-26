@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Automação Paineis Ganha Tempo
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.0
 // @description  Automação de painel com salvamento de log
 // @author       Carlos Christian Buchhorn Clair / Victor Hugo Santos de Moraes
 // @match        https://ganhatempo.seplag.mt.gov.br/ns-panel/
