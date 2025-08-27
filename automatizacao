@@ -2,7 +2,7 @@
 // @name         Automação Paineis Ganha Tempo - Arquivo por Queda
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Automação de painel
+// @description  Automação de painel criando um arquivo por queda com data e hora
 // @author       Carlos Christian Buchhorn Clair / Victor Hugo Santos de Moraes
 // @match        https://ganhatempo.seplag.mt.gov.br/ns-panel/
 // @grant        GM_download
